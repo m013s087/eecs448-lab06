@@ -1,0 +1,4 @@
+addBack does not maintain correct order-might be calling addFront
+removeFront, removeBack do not update size
+removeFront, removeBack do not throw exceptions on empty lists
+removeFront, removeBack do not change contents of lists
